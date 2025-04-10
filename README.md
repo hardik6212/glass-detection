@@ -105,5 +105,3 @@ This project is licensed under the MIT License.
 
 Created by Ashutosh, Hardik, Shiva, Hem and Zaigham - feel free to reach out for improvements or collaborations!
 ```
-
-Let me know if you want to include deployment instructions (like on Streamlit Cloud or Docker) or auto-demo screenshots.
