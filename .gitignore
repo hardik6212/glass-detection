@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+myenv/
+ENV/
+.venv/
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS & Linux
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Model files
+*.pt
+model/best.pt
+
+# Streamlit cache
+.streamlit/
+**/.streamlit/
+
+# Image outputs
+output/
+*.jpg
+*.jpeg
+*.png
+
+# Data folders (optional - customize as needed)
+data/
+uploads/
+test_greyscale/
+test/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Requirements lock (optional)
+poetry.lock
+Pipfile.lock
