@@ -27,7 +27,7 @@ desktop.ini
 
 # Model files
 *.pt
-model/best.pt
+# model/best.pt
 
 # Streamlit cache
 .streamlit/
