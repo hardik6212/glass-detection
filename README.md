@@ -1,4 +1,3 @@
-Absolutely! Here's your full `README.md` content in a single copy-paste friendly response:
 
 ```markdown
 # 🔍 GlassNoGlass YOLOv8 Detector with Streamlit
